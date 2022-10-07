@@ -10,6 +10,3 @@ Output
    simple interest = p*t*r
 
 
-<footer>
-&copy 2021 XYZ, Inc.
-</footer>
